@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
         home: Scaffold(
           body: Center(
             child: Container(
-              width: 100,
+              width: 200,
               height: 200,
 
               // ignore: sort_child_properties_last
